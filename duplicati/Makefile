@@ -1,3 +1,5 @@
+# https://forum.arturhome.pl/t/kopia-zapasowa-proxmox/7607
+
 DUPLICATI_VERSION=2.0.6.3-1
 
 
